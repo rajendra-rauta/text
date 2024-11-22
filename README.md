@@ -15,7 +15,6 @@ The review was little more than a description of the film's plot.
 |sNo|Topic| subTopic| Link|
 |-|-|-|-|
 |00| Introduction | [Explenation video link] |(https://youtu.be/5rC5_PAqCgs?si=wPBFXBkLyh0tiJdS)
-
 |01| Introduction | [Explenation video link] |(https://youtu.be/5rC5_PAqCgs?si=wPBFXBkLyh0tiJdS)
 |02| Introduction | [Explenation video link] |(https://youtu.be/5rC5_PAqCgs?si=wPBFXBkLyh0tiJdS)
 |03| Introduction | [Explenation video link] |(https://youtu.be/5rC5_PAqCgs?si=wPBFXBkLyh0tiJdS)

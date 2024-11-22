@@ -1,5 +1,5 @@
 # its for to know  how to read readme to file 
-<img src -= "https://github.com/rajendra-rauta/text/blob/main/box2.jpg"
+<img src -= "https://github.com/rajendra-rauta/text/blob/main/box2.jpg">
 
 pecifically : discourse intended to give a mental image of something experienced
 beautiful beyond description
